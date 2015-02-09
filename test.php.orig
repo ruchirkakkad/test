@@ -1,0 +1,9 @@
+<?php
+<<<<<<< HEAD
+echo 'line1';
+echo 'line2ruchir';
+=======
+echo 'line1 Hello ruchir';
+echo 'line2';
+>>>>>>> d2041099d255eba6f03e8b025b4cd55945079303
+?>
