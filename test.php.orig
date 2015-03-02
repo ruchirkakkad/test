@@ -1,0 +1,6 @@
+<?php
+echo 'line1';
+echo 'line2ruchir';
+echo 'line1 Hello ruchir';
+echo 'line2 Hello';
+?>
