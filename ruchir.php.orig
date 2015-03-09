@@ -1,0 +1,12 @@
+<?php
+
+echo 'E halo halo';
+
+
+<<<<<<< HEAD
+echo 'git checkout commit';
+=======
+echo 'new line added to check the git checkout commit';
+>>>>>>> f7a08a9ec1339eeada23c7fc3f1003eda118022e
+
+die;
